@@ -1,0 +1,4 @@
+FILE: /Users/jsjsj/log.txt
+LEVEL: DEBUG
+FORMAT: [%s]-[%s]--%s
+MAX-SIZE: 100000
